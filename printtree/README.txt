@@ -1,0 +1,5 @@
+--This project was an individual project completed during my first semester of C++ (Data Structures)
+--The purpose of this program was to traverse and print a given Binary Tree in three different ways: horizontally, vertically, and symmetrically
+--Please note that we were given a code skeleton and told to fill in the three functions vertical(), horizontal(), and symmetric()
+--When the user runs the program, they can type either "ver," "hor," or "sym" and the program would print the tree in the respective manner
+--For this project, we implemented several skills that we developed during the semester including pointers, traversing pointers along a linear chain (linked lists, binary trees), and recursion.
